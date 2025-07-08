@@ -178,6 +178,21 @@ body {
   gap: 40px;
 }
 
+.hero-a {
+  list-style: none;
+}
+
+.hero-container li {
+  list-style: none;
+}
+.hero-container li a {
+  text-decoration: none;
+  color: #fff;
+  background: #ff6b6b;
+  color: white;
+  transform: translateY(-2px);
+}
+
 .stat h3 {
   font-size: 2.5rem;
   font-weight: 700;
